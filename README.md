@@ -1,6 +1,5 @@
 # 📚 Network Intrusion Detection  
 
-## 📖 Overview  
 This project implements an **Artificial Neural Network (ANN)** for detecting network intrusions. It includes **data preprocessing**, model training, and evaluation steps to identify potential threats in network traffic.  
 
 ## 📂 Project Structure  
