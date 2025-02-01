@@ -6,9 +6,6 @@ This project implements an **Artificial Neural Network (ANN)** for detecting net
 ## 📂 Project Structure  
 - **`ANN.ipynb`** – Jupyter Notebook containing the ANN model implementation.  
 - **`data_preprocessing.ipynb`** – Notebook for cleaning and preprocessing the dataset.  
-- **`model_plot.png`** – A visualization of the ANN architecture.  
-- **`LICENSE.md`** – MIT License for this project.  
-- **`README.md`** – This file.  
 
 ## 🏗 Model Architecture  
 The ANN consists of:  
@@ -34,5 +31,5 @@ The ANN consists of:
 3. Run the preprocessing script in `data_preprocessing.ipynb`.  
 4. Train the model using `ANN.ipynb`.  
 
-## ⚖ License  
-This project is licensed under the **MIT License**.  
+## License  
+This project is licensed under the MIT License.  
